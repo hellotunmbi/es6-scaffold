@@ -1,0 +1,1 @@
+console.log("hello world from webpack and his family");
