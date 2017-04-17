@@ -1,1 +1,1 @@
-console.log("hello world from webpack and his family");
+console.log("hello world from es6 with webpack");
