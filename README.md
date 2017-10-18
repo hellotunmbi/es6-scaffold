@@ -11,11 +11,11 @@ Basic ES6 project with webpack, babel and dev-server installed. Clone or Fork th
 ### To run
 Using Terminal (or Command Prompt), change directory to downloaded folder
 
-`
-sudo npm install
-cd es6-scaffold <folder name>
-npm start
-`
+`sudo npm install`
+
+`cd es6-scaffold <folder name>`
+
+`npm start`
 
 
 Feel free to fork and star this repo
