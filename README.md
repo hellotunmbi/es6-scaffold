@@ -1,5 +1,5 @@
 # es6-scaffold
-Basic ES6 project with webpack, babel and dev-server installed. Pull or Fork this repository to start any ES6 project.
+Basic ES6 project with webpack, babel and dev-server installed. Clone or Fork this repository to start any ES6 project.
 
 ### Folder Structure
 
@@ -10,8 +10,12 @@ Basic ES6 project with webpack, babel and dev-server installed. Pull or Fork thi
 
 ### To run
 Using Terminal (or Command Prompt), change directory to downloaded folder
-> cd es6-scaffold (folder name)
-> npm start
+
+`
+sudo npm install
+cd es6-scaffold <folder name>
+npm start
+`
 
 
 Feel free to fork and star this repo
